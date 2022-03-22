@@ -30,8 +30,10 @@ function auto(marca, modelo, annio) {
  */
 
 
-var autoNuevo= new auto("Tesla", "Model 3", 2020);
+var autoNuevo= new auto("Tesla", "Model 3", 2020); //Estos son los nuevos objetos de tipo auto
 
 var autoNuevo2= new auto("Tesla","Model X",2021);
+
+var autoNuevo3= new auto("Ford", "Sonic",2022);
 
 
